@@ -5,22 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da8b885f-a0e7-4cf7-8fca-c4279b94c134" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../T2/Operadores/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../T2/Operadores/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../T2/Operadores/Operadores.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SentenciaSwitch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../T2/Operadores/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../T2/Operadores/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../T2/Operadores/src/Operadores.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SentenciasSeleccion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SentenciaIF.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ProyectoMetodos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProyectoMetodos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SentenciaSwitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SentenciasSwitch.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,17 +49,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/serki/Documents/GitHub/CLASESPW/CODIGOS_PRO/DAM/T3/SentenciasSeleccion&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/serki/Documents/GitHub/CLASESPW/CODIGOS_PRO/DAM/T3/SentenciasSeleccion"
   }
-}</component>
+}]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="da8b885f-a0e7-4cf7-8fca-c4279b94c134" name="Changes" comment="" />
